@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 @EnableDiscoveryClient
 @RestController
-@EnableOAuth2Sso
 @SpringBootApplication
 public class HelloWorldServieApplication {
 
